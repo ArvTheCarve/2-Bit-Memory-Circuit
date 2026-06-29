@@ -1,3 +1,4 @@
+<img width="782" height="578" alt="IMG_3680" src="https://github.com/user-attachments/assets/cfa6c68e-d654-459d-a2c5-86d39cc1e5f8" />
 # 2-Bit memory circuit build with D latches. 
 2-bit memory circuit built using D latches on a breadboard. Stores binary data using basic sequential logic with a write-enable control. Input is set through push buttons, and the current stored value is displayed on a 16×2 LCD in real time.
 
